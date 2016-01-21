@@ -15,7 +15,7 @@ setup(
     options = options,
     zipfile=None,
     #console = [{"script": "simpleList.py", "icon_resources": [(1, "list.ico")] }],  
-    windows = [{"script": "convert_gui.py", "icon_resources": [(1, "csv.ico")] }],  
+    windows = [{"script": "convert_gui.py", "icon_resources": [(1, "./icon/csv.ico")] }]
     #windows = [{"script": "convert_gui.py"}],  
     
     )
